@@ -69,16 +69,16 @@ A beginner-friendly programming project created to practice programming logic an
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub
 
 <div align="center">
 
-![Suhavni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhavnisaxena21&show_icons=true&theme=tokyonight&hide_border=true)
+🌱 **Currently learning & building**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhavnisaxena21&layout=compact&theme=tokyonight&hide_border=true)
+💻 Web Development • 🐍 Python • 🤖 AI • 🧠 DSA
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
