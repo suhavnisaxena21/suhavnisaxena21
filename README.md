@@ -1,28 +1,30 @@
-# Hey, I'm Suhavni! 👋🏻
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=700&lines=AI+Engineering+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Python+Learner+%F0%9F%90%8D;Future+AI%2FML+Engineer+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing+%F0%9F%8C%B7" alt="Typing SVG" />
+# ✨ Hey, I'm Suhavni! 👋🏻
 
-<p align="center">
-  <b>AI Engineering Student • Web Developer • Tech Enthusiast</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=700&lines=AI+Engineering+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Python+Learner+%F0%9F%90%8D;Future+AI%2FML+Engineer+%F0%9F%9A%80;Learn+%7C+Build+%7C+Grow+%F0%9F%8C%B7" />
 
-<p align="center">
-  <a href="https://github.com/suhavnisaxena21">
-    <img src="https://img.shields.io/github/followers/suhavnisaxena21?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=suhavnisaxena21&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
-</p>
+<br>
+
+<a href="https://github.com/suhavnisaxena21">
+<img src="https://img.shields.io/badge/GitHub-Suhavni-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/suhavni-s-8849bb389">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 ---
 
-## 🌷 About Me
-
-Hi! I'm **Suhavni**, a 2nd-year AI Engineering student who loves turning ideas into projects and learning by building.
+## 🌷 `whoami`
 
 ```python
 class Suhavni:
+
     role = "AI Engineering Student"
-    
+
     currently_learning = [
         "Web Development",
         "Python",
@@ -31,7 +33,7 @@ class Suhavni:
     ]
 
     interests = [
-        "AI/ML",
+        "AI / ML",
         "Web Development",
         "Problem Solving",
         "Building Projects"
@@ -40,199 +42,256 @@ class Suhavni:
     mindset = "Learn → Build → Break → Fix → Repeat 🚀"
 ```
 
-<details>
-<summary>✨ A little more about me</summary>
-
-<br>
-
-* 🎓 2nd-year **AI Engineering** student
-* 💻 Exploring **Web Development**
-* 🐍 Learning **Python**
-* 🧠 Working on **DSA & problem solving**
-* 🤖 Interested in **AI & Machine Learning**
-* 🛠️ Learning by actually building projects
-* 🌱 Currently focused on improving my technical foundation
-
-</details>
-
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Languages
+## 🎛️ MY DEVELOPER PANEL
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Projects
+</div>
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤟 Signova
+<td width="50%" align="center">
 
-An AI-based **sign language recognition project** I'm building with my team.
+### 🤖 AI ENGINEERING
 
-🔹 AI / ML
-🔹 Python
-🔹 Team Project
+<br>
 
-</td>
+🎓 **2nd Year**
 
-<td width="50%">
+🧠 Artificial Intelligence
 
-### 🃏 Playing Cards
+🐍 Python
 
-A responsive playing cards project built using **HTML & CSS**.
-
-🔹 Flexbox
-🔹 Responsive Design
-🔹 CSS Layouts
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧾 D-Mart Invoice System
-
-A beginner-friendly programming project created to practice **logic and problem solving**.
-
-🔹 Programming Logic
-🔹 C
-🔹 Problem Solving
+🚀 Machine Learning
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔨 More Coming Soon...
+### 💻 WEB DEVELOPMENT
 
-Currently learning and building more projects.
+<br>
 
-> 🚧 Loading next project...
+🌐 HTML
+
+🎨 CSS
+
+📱 Responsive Design
+
+🔧 Git & GitHub
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📚 Currently Learning
+## 🧊 TECH STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,python"/>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
+---
+
+# 🚀 PROJECT HUB
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤟 Signova
+
+**AI-based Sign Language Recognition**
+
+Currently building this project with my team.
+
+`Python` `AI` `ML`
+
+</td>
+
+<td width="50%">
+
+## 🃏 Playing Cards
+
+Responsive playing cards project built while learning CSS Flexbox.
+
+`HTML` `CSS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧾 D-Mart Invoice System
+
+Beginner-friendly programming project created to practice logic and problem solving.
+
+`C`
+
+</td>
+
+<td width="50%">
+
+## 🔨 Coming Soon...
+
+More projects are loading...
 
 ```text
-HTML & CSS          ███████████████░░░  80%
-Python              ████████░░░░░░░░░░  45%
-DSA                 █████░░░░░░░░░░░░░  30%
-Artificial Intel.   ████░░░░░░░░░░░░░░  25%
+BUILD_STATUS = "IN PROGRESS"
 ```
 
-> These percentages represent my current learning progress, not professional proficiency.
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🎯 2026 Goals
+<details>
+<summary>🎯 Click to see my 2026 goals</summary>
 
-* [x] Start building projects
-* [x] Learn Git & GitHub
-* [x] Build HTML/CSS projects
-* [ ] Become confident in Web Development
-* [ ] Improve Python
-* [ ] Build a strong DSA foundation
-* [ ] Learn Machine Learning
-* [ ] Build more AI projects
-* [ ] Contribute to Open Source
-* [ ] Participate in more hackathons 🚀
+<br>
+
+- [x] Learn Git & GitHub
+- [x] Start building projects
+- [x] Build HTML/CSS projects
+- [ ] Become confident in Web Development
+- [ ] Improve Python
+- [ ] Build a strong DSA foundation
+- [ ] Learn Machine Learning
+- [ ] Build more AI projects
+- [ ] Contribute to Open Source
+- [ ] Participate in Hackathons 🚀
+
+</details>
 
 ---
 
-## 📊 GitHub Activity
+<details>
+<summary>📚 Click to see what I'm currently learning</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhavnisaxena21&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhavnisaxena21&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180"/>
-</p>
+<br>
+
+| Skill | Status |
+|------|------|
+| 🌐 HTML | 🟢 Learning |
+| 🎨 CSS | 🟢 Learning |
+| 🐍 Python | 🟡 Improving |
+| 🧠 DSA | 🟡 Building Foundation |
+| 🤖 AI/ML | 🔵 Exploring |
+
+</details>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Dashboard
+
+<img src="https://github-readme-stats.vercel.app/api?username=suhavnisaxena21&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhavnisaxena21&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhavnisaxena21&theme=radical&hide_border=true&border_radius=15"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=suhavnisaxena21&theme=radical&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
-## 🐍 My Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suhavnisaxena21/suhavnisaxena21/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/suhavnisaxena21/suhavnisaxena21/output/github-contribution-grid-snake.svg"/>
 
-## 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/suhavni-s-8849bb389">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/suhavnisaxena21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <details>
-<summary>💭 Random Developer Thoughts</summary>
+<summary>💭 Developer Mode</summary>
 
 <br>
 
 ```text
-☕ Coffee + 💻 Code
-       ↓
-    Bug appears
-       ↓
-  "I'll fix it quickly"
-       ↓
-    3 hours later...
-       ↓
-    IT WORKS 🎉
+> booting Suhavni.exe...
+
+[✓] AI Engineering
+[✓] Web Development
+[✓] Python
+[✓] GitHub
+
+> searching for bugs...
+
+ERROR 404:
+Motivation not found
+
+> restarting...
+
+☕ Coffee detected
+💻 Code detected
+🚀 Developer mode activated
+
+STATUS: BUILDING...
 ```
 
 </details>
 
 ---
 
-<p align="center">
+<div align="center">
+
+## 🌷 Let's Connect
+
+<a href="https://www.linkedin.com/in/suhavni-s-8849bb389">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/suhavnisaxena21">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
 
 ### ✨ Learning. Building. Growing. ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff7eb3&height=100&section=footer"/>
+</div>
 
-</p>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff7eb3&height=120&section=footer"/>
+
+</div>
